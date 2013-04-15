@@ -3,6 +3,8 @@
 A simple library to generate a url of photo of a face, for use in development,
 design, and testing of your local projects.
 
+Generates urls that point to the awesome [uiFaces](http://uifaces.com) by @calebogden
+
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -65,5 +67,5 @@ end
 
 
 ## Credits
-Big shoutout to @calebogden for building (uiFaces)[http://uifaces.com]
+Big shoutout to @calebogden for building [uiFaces](http://uifaces.com).
 Library written by @jakeonrails
