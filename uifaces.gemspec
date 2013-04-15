@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["jakeonrails@gmail.com"]
   spec.description   = %q{Get profile images from uifaces.com, by @calebogden}
   spec.summary       = %q{Get profile images from uifaces.com, by @calebogden}
-  spec.homepage      = "http://github.com/jakeonrails/uifaces"
+  spec.homepage      = "http://jakeonrails.github.io/uifaces"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
